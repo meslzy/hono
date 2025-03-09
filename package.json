@@ -39,6 +39,11 @@
       "import": "./dist/index.js",
       "require": "./dist/cjs/index.js"
     },
+    "./context": {
+      "types": "./dist/types/context.d.ts",
+      "import": "./dist/context.js",
+      "require": "./dist/cjs/context.js"
+    },
     "./request": {
       "types": "./dist/types/request.d.ts",
       "import": "./dist/request.js",
